@@ -1,0 +1,5 @@
+4
+AbC
+Hello world
+Welcome to the UCF High School Programming Tournament
+***Don't forget about "punctuation"?!?!
